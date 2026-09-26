@@ -1,7 +1,7 @@
 # Basket
 A noon Minutes–style grocery recommender built on 3 million real Instacart orders.
 
-## What it will do (Demo Day, 31 Dec 2026)
+## What it will do
 - **Your next basket** – pick any user, see the groceries they're likely to reorder, ranked.
 - **Frequently bought together** – open a product, see what goes with it, plus a bundle and its expected revenue.
 - **Cold start in Arabic** – new products with Arabic names still get sensible recommendations (bge-m3 embeddings).
